@@ -1,5 +1,6 @@
-<div dir="rtl">
-# Easy-GPU-PV
+<div dir="rtl" style="text-align:right;direction:rtl;>
+
+  # Easy-GPU-PV
 
 ## معرفی
 یک پروژه در حال توسعه که با هدف ساده‌سازی مجازی‌سازی جزئی GPU در ویندوز Hyper-V طراحی شده است!
