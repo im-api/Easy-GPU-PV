@@ -1,3 +1,4 @@
+<div dir="rtl">
 # Easy-GPU-PV
 
 ## معرفی
@@ -56,4 +57,4 @@ Update-VMGpuPartitionDriver.ps1 -VMName "نام ماشین مجازی شما" -G
 - [gawainXX](https://github.com/gawainXX) برای کمک در تست و رفع اشکالات
 
 این یک راهنمای کامل برای راه‌اندازی GPU-PV با Easy-GPU-PV در ویندوز Hyper-V است. امیدوارم مفید باشد!
-
+</div>
